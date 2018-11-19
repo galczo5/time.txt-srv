@@ -1,0 +1,20 @@
+{
+  "name": "time.txt-srv",
+  "version": "0.0.1",
+  "description": "time.txt report server",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galczo5/time.txt-srv.git"
+  },
+  "keywords": [
+    "time.txt",
+    "time",
+    "tracking"
+  ],
+  "author": "galczo5",
+  "license": "MIT"
+}
